@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Enrolment]
+       [dbo].[Member]
+       [dbo].[Membership]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[Enrolment] (Table)
+       [dbo].[Member] (Table)
+       [dbo].[Membership] (Table)
+     Create
+       [dbo].[FK_Enrolment_Member] (Foreign Key)
+       [dbo].[FK_Enrolment_Membership] (Foreign Key)
+
+** Supporting actions

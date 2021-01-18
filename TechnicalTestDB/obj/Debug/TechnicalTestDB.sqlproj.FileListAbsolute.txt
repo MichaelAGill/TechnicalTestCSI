@@ -1,0 +1,5 @@
+C:\VisualStudioProjects\TechnicalTestDB\bin\Debug\TechnicalTestDB.dacpac
+C:\VisualStudioProjects\TechnicalTestDB\bin\Debug\TechnicalTestDB.dll
+C:\VisualStudioProjects\TechnicalTestDB\bin\Debug\TechnicalTestDB.pdb
+C:\VisualStudioProjects\TechnicalTestDB\obj\Debug\TechnicalTestDB.dll
+C:\VisualStudioProjects\TechnicalTestDB\obj\Debug\TechnicalTestDB.pdb
