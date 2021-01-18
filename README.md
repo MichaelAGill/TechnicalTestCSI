@@ -4,7 +4,7 @@ Thank you for giving me the chance to prove myself with this technical test. I h
 
 There are 3 project folders:
 
-# DataLibrary - This is the API:
+# DataLibrary - This is the API
 The API takes the model created by the MVC form and creates the SQL query and sends it to the database. I used Dapper, System.Configuration ans System.Data.SqlClient to assist me.
 
 # TechnicalTest - This is the ASP.NET MVC 5 using the Entity Framework
